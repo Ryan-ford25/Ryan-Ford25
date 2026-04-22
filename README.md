@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Ryan 👋
 
-<!--
-**Ryan-ford25/Ryan-Ford25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full-Stack Developer with a background in engineering, specialising in Python (Django) and JavaScript.
 
-Here are some ideas to get you started:
+🚀 Projects
+🎯  - MathRise – Gamified learning platform (Django, Stripe)
+🧑‍🤝‍🧑  - Online Scout Manager – Role-based full-stack app
+🎮  - Echoes of Light – JavaScript memory game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠 Tech Stack
+
+Python | Django | JavaScript | HTML | CSS | PostgreSQL
+
+📫 Contact
+Email: Fordryan01@hotmail.co.uk
+GitHub: https://github.com/Ryan-ford25
